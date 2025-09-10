@@ -1,0 +1,19 @@
+{
+    "name": "com.fscigliano.propertydrawerscollection.editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6e8091645e2150941a8e6d2637c6c47a",
+        "GUID:4a1d8ed79b1ed7749a953b6b5f71b870"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
