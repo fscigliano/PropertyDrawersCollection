@@ -13,7 +13,7 @@
     "url": "https://github.com/fscigliano/PropertyDrawersCollection"
   },
   "dependencies": {
-    "com.fscigliano.reflection-extensions": "1.0.0"
+    "com.fscigliano.reflection-extensions": "https://github.com/fscigliano/ReflectionExtensions.git#v1.0.0"
   },
   "_fingerprint": "a2a8b81d32d669b628d4c05647a4e430401ee1c2"
 }
